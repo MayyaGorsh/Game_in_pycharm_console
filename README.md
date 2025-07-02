@@ -11,6 +11,10 @@ This is a **textual interactive story** enriched with **turn-based battles**, mu
 - **Dynamic interaction system**
 - **Story scripting flexibility** (for writers)
 - **Branching structure with game states**
+
+
+![Program Scheme](scheme.png)
+
 ---
 
 ## Gameplay Tips
