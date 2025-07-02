@@ -13,7 +13,7 @@ This is a **textual interactive story** enriched with **turn-based battles**, mu
 - **Branching structure with game states**
 
 
-![Program Scheme](scheme.png)
+![Program Scheme](scheme.PNG)
 
 ---
 
