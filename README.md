@@ -1,6 +1,6 @@
 # Text-Based Novella with Turn-Based Combat
 
-This is a **textual interactive story** enriched with **turn-based battles**, multiple endings, and a flexible architecture that makes story scripting extremely convenient. Although we didn't manage to fully implement character arcs and plot twists, the current version demonstrates a wide range of **technical capabilities** suitable for future projects of this kind.
+This is a **textual interactive story** enriched with **turn-based battles**, multiple endings, and a flexible architecture that makes story scripting extremely convenient. The current version demonstrates a wide range of **technical capabilities** suitable for future projects of this kind.
 
 ---
 
